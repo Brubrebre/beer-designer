@@ -1,0 +1,4 @@
+Rendimento:
+  R[%] = (Volume_Mosto[hL] * 0,96 * Extrato_Mosto[g/100ml] * 100) / Dosagem_Total[Kg]
+Eficiência:
+  Ef[%] = R[%] * 100 / Extrato[%]
