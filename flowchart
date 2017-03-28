@@ -8,7 +8,11 @@ Flowchart
 1- Definir apronte
   user: Entra quantidade em litros
   app: Converte para galão
-##2- Seleciona Estilo
+  
+2- Seleciona Estilo
+  app: lista estilos
+  user: seleciona estilo
+  
 3- Selecionar extratos
   app: Lista opções: Grãos, Extratos, Adjuntos
   user: Seleciona grão e proporção
