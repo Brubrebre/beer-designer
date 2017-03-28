@@ -1,0 +1,16 @@
+Flowchart
+
+#Ajustes
+1-Taxa de evaporação
+2-Rendimento
+
+#Criar Receita
+1- Definir apronte
+  user: Entra quantidade em litros
+  app: Converte para galão
+##2- Seleciona Estilo
+3- Selecionar extratos
+  app: Lista opções: Grãos, Extratos, Adjuntos
+  user: Seleciona grão e proporção
+  app: calcula a quantidade necessária em libra
+  app: converte para kilo
